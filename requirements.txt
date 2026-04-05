@@ -4,3 +4,4 @@ seaborn
 datasets
 transformers
 torch
+scikit-learn
