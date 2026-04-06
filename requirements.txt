@@ -5,3 +5,5 @@ datasets
 transformers
 torch
 scikit-learn
+fastapi
+uvicorn
